@@ -1,0 +1,18 @@
+1-npm init
+2-npm i express morgan nodemon ejs body-parser dotenv mongoose axios
+3-description E.J.S
+4-Quantum Node.js Pack (package-proplem)
+5-https://github.com/akashyap2013/CRUD_Application_Node
+6-route.get('/',(req,res)=>{
+    res.render('index')
+});
+7-https://www.youtube.com/watch?v=W1Kttu53qTg&t=5029s
+
+8-Username:hatemfaysil16   
+Password:Xu9G5jfyDBUSIVaO
+
+MONGO_URL=mongodb+srv://admin:admin123@cluster0.ugfgqt0.mongodb.net/CRUD2?retryWrites=true&w=majority
+
+install expressjs mvc all
+9-https://expressjs.com/en/starter/generator.html
+npx express-generator
